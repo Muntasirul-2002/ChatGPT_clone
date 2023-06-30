@@ -15,25 +15,25 @@
  MongoDB is implemented as the database to store and retrieve chat histories, allowing users to revisit previous conversations.
 
  # Languages:
-   ~ Front-End:
+     ~ Front-End:
         ‣HTML
         ‣CSS
         ‣Tailwind
-   ~ Back-End:
+     ~ Back-End:
         ‣FLask
         ‣Js
-   ~Databse:
+     ~Databse:
         ‣MongoDB
-   ~API:
+     ~API:
         ‣OpenAI
 
  # How to Run:
-1.Clone the repository: git clone https://github.com/your-username/ChatGPT-Clone.git
-2.Install the necessary dependencies: pip install -r requirements.txt
-3.Set up MongoDB and configure the database connection in config.py.
-4.Set your OpenAI API key in config.py.
-5.Run the application: python app.py
-6.Access the chatbot in your web browser at http://localhost:5000.
+    1.Clone the repository: git clone https://github.com/your-username/ChatGPT-Clone.git
+    2.Install the necessary dependencies: pip install -r requirements.txt
+    3.Set up MongoDB and configure the database connection in config.py.
+    4.Set your OpenAI API key in config.py.
+    5.Run the application: python app.py
+    6.Access the chatbot in your web browser at http://localhost:5000.
 
 # Screenshots
 ![Screenshot (70)](https://github.com/Muntasirul-2002/ChatGPT_clone/assets/108189526/c07cb924-0c3d-4b7e-9768-2a771e2ec455)
