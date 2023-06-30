@@ -2,16 +2,16 @@
  Welcome to the ChatGPT Clone project repository! This project is a fully functional chatbot clone built using HTML, CSS, JavaScript, Tailwind CSS, Flask, OpenAI, and MongoDB. It aims to provide an interactive and engaging conversational experience with an AI-powered chatbot.
 
 # Features:
-  •Intelligent Chatbot: 
+ # •Intelligent Chatbot: 
   The chatbot utilizes OpenAI's powerful GPT-3.5 language model to generate human-like responses, ensuring a natural and dynamic conversation.
   
-  •User-Friendly Interface: 
+ # •User-Friendly Interface: 
   The project is designed with a sleek and intuitive user interface using HTML, CSS, and Tailwind CSS, providing a seamless chatting experience.
   
-  •Real-Time Communication:
+ # •Real-Time Communication:
   Through the integration of JavaScript and Flask, the chatbot communicates with the backend server in real-time, delivering instant responses to user queries.
   
-  •Persistent Storage: 
+ # •Persistent Storage: 
  MongoDB is implemented as the database to store and retrieve chat histories, allowing users to revisit previous conversations.
 
  # Languages:
@@ -20,12 +20,12 @@
         ‣CSS
         ‣Tailwind
      ~ Back-End:
-        ‣FLask
-        ‣Js
+          ‣FLask
+          ‣Js
      ~Databse:
-        ‣MongoDB
+         ‣MongoDB
      ~API:
-        ‣OpenAI
+         ‣OpenAI
 
  # How to Run:
     1.Clone the repository: git clone https://github.com/your-username/ChatGPT-Clone.git
